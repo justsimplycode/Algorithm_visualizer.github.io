@@ -1,40 +1,11 @@
 https://xhukla.github.io/Algorithm_visualizer.github.io/
 
+Sorting Visualizer is an interactive web application that visually demonstrates how various sorting algorithms work. The project aims to help users better understand the internal mechanics of different sorting techniques, such as Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort.
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/xhukla/Algorithm_visualizer.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xhukla/Algorithm_visualizer.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Key Features:
+Interactive Visualization: Watch sorting algorithms in action with real-time animations that highlight the sorting process step by step.
+Multiple Algorithms: Select from various sorting algorithms to see how they differ in approach and efficiency.
+Adjustable Speed: Control the speed of the sorting process to explore how algorithms behave in real time or step-by-step mode.
+Customizable Array: Generate a random array of different sizes and values or manually input data to see how the algorithms handle specific cases.
+Educational Insights: Each algorithm is accompanied by a brief description of its time and space complexity, making it easy to compare their performance.
+This project is perfect for students, educators, and anyone curious about how sorting algorithms work under the hood.
